@@ -24,7 +24,7 @@ Follow these instructions to deploy the Serverless Airline application:
 3) Choose to create a new environment (i.e. dev)
 4) Verify that you now have at least `Auth` and `Api` categories by running **`amplify status`**
 5) Deploy amplify managed infrastructure by running **`amplify push`**
-6) Once complete, open [AWS Amplify Console](https://console.aws.amazon.com/amplify/home) by running **`amplify console``**
+6) Once complete, open [AWS Amplify Console](https://console.aws.amazon.com/amplify/home) by running **`amplify console`**
 7) Click on `Frontend environment`, select `GitHub`, choose your Fork repo and select the branch **`develop`**
 8) Under "Existing Amplify backend detected", **select your new environment** (i.e. dev) created in Step 2
 9) Choose an existing Amplify Console IAM Role or create a new one
